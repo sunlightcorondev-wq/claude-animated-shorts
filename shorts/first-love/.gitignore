@@ -1,0 +1,5 @@
+# rendered + generated media (rebuild with: python3 build.py audio|render|mux)
+out/
+narration/*.wav
+__pycache__/
+*.pyc

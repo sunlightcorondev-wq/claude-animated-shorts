@@ -29,5 +29,15 @@ Claude then follows `SKILL.md`: topic and facts, then script, then voice, then t
 - Set `REMOTION_TMP` to a folder on a big drive. Every Remotion bundle copies `public/` (~1.3 GB) into the temp folder.
 - Story, characters and voice should always be your own. Use the references for the look, not the content.
 
+## A second worked example: the 2D explainer register
+`shorts/first-love/` is a complete short made with the same rules but a different
+picture: **FIRST LOVE**, a 2:44 dark-psychology explainer at 1080×1920. No
+Remotion, no three.js — flat programmatic vector scenes and kinetic type in
+Python/Pillow, supersampled 2× and graded in film post, scored and sound-designed
+with numpy synthesis, cut to the narration's own word timings. It shows the same
+craft in a new keyboard: statement type locked to spoken words, one metaphor per
+scene, amber for memory and blue for the present. Read `shorts/first-love/README.md`
+and `SCRIPT.md`.
+
 ## License
 The code and docs are MIT (see `LICENSE`). The reference frames are included for style study only.
